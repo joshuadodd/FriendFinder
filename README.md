@@ -10,7 +10,7 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 
 To install the application follow the instructions below:
 
-git clone git@github.com:angrbrd/friend-finder.git
+git clone git@github.com:joshuadodd/friend-finder.git
 cd friend-finder
 npm install
 
